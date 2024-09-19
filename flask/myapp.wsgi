@@ -1,5 +1,4 @@
 import sys
-sys.path.insert(0, '/var/www/flask')
 
 # Add the directory containing your Flask app to the Python path
 sys.path.insert(0, '/var/www/flask')
